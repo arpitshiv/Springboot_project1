@@ -1,11 +1,12 @@
 <html>
 	<head>
-		<title>Login Page</title>
-		<body>Welcome to the login page!
+		<title>Login Page</title></head>
+		<body>
+		<div class="container">Welcome to the login page!
 		<pre>${errorMessage }</pre>
 		<form method="post">
 			Name: <input type="text" name="name">
 			Password: <input type="password" name="password">
 			<input type="submit">
-		</form></body>
+		</form></div></body>
 </html>

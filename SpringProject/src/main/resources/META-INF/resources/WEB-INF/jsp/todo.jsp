@@ -5,7 +5,7 @@
 		<title>TODO PAGES</title>
 		<body><h1>Welcome ${name}</h1>
 		<hr>
-		<div>
+		<div class ="container">
 			<h2>Your Todos</h2>
 			<table class="table">
 				<thead>
